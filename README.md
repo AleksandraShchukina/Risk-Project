@@ -1,3 +1,2 @@
 # Risk-Project
-Group Risk Project
-Alekseeva Stepanida, Garifullina Azalia, Shchukina Aleksandra
+Group Risk Project by Alekseeva Stepanida, Garifullina Azalia, Shchukina Aleksandra
